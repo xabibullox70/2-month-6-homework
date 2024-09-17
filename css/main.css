@@ -1,0 +1,35 @@
+.divone {
+width: 400px;
+height: 250px;
+border: 4px dashed forestgreen;
+margin-top: 50px;
+background-image:url("../img/bacgraunds.webp") ;
+}
+.divthree {
+    width: 300px;
+height: 300px;
+border: 4px dashed indianred;
+margin-top: 50px;
+background-image:url("../img/bacgraunds2.webp")
+}
+.div3 {
+    width: 350px;
+height: 250px;
+border: 4px dashed blue;
+margin-top: 50px;
+background-image:url("../img/bacgraunds3.webp")
+}
+.div4 {
+    width: 550px;
+height: 350px;
+border: 4px dashed darkorange;
+margin-top: 50px;
+background-image:url("../img/bacgraunds4.webp")
+}
+.div5 {
+    width: 800px;
+height: 650px;
+border: 6px dashed gold;
+margin-top: 50px;
+background-image:url("../img/bacgraunds5.webp")
+}
